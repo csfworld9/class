@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+}
+.navbar a{
+    text-decoration: none;
+    color:black
+}
+.mim{
+    background: linear-gradient(150deg, #0000e6 20%,#0000b3 100%);
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+
+}
